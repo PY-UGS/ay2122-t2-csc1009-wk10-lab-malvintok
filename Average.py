@@ -1,0 +1,1 @@
+print("Average: " + str((int(input("First Number: ")) + int(input("Second Number: "))) / 2))
